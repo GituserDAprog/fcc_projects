@@ -1,1 +1,1 @@
-# database_celestial_fcc
+# FCC projects
